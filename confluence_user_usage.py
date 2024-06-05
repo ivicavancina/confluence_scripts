@@ -12,8 +12,8 @@ from collections import defaultdict
 
 # Replace these variables with your Confluence Cloud credentials and base URL
 confluence_base_url = 'https://euema.atlassian.net'
-username = 'ivica.vancina@valiantys.com'
-api_token = 'ATCTT3xFfGN0G0ryKFlMoncbllwNH4LJ1k3c7O7HyaEZSZNVVXy25gnYLVqQ76zgS9VRGdYieNaD5ndnLSUkXXJQ5SJnyLINbIMNoiIsp5WrQzz1sEPnX2VBxvIXzlqLz6GplXVdxaq0QiSaxjtMf8CWU3b9sb5n5rNpNEFyx4J0G20JBmBpqrA=5C712000'
+username = 'your@email.com'
+api_token = 'API-TOKEN'
 
 # Function to get managed accounts
 def get_managed_accounts():

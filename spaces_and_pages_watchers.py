@@ -1,11 +1,16 @@
+"""
+ This script retrieves and exports Confluence Cloud space watchers and page watchers to a JSON file.
+ It uses the Confluence Cloud REST API and GraphQL API to gather data about spaces, their watchers, and page watchers.
+"""
+
 import requests
 from requests.auth import HTTPBasicAuth
 import json
 
 # Replace these variables with your Confluence Cloud credentials and base URL
 confluence_base_url = 'https://euema.atlassian.net/wiki'
-username = 'ivica.vancina@valiantys.com'
-api_token = 'ATATT3xFfGF0uAHGDqBYVURScU-609LxXcadRKhFot9dm8379qAmCdL-PfPURWJ9s1iMMqGfBPS-KpVJm4XSvMvpM7Rfm6xWcEfnTf7rkieiX7xZtiU70C52mFw_IfOBp881McEieO8VABa_a9L0MnOBROY2344C7SD-9k1CV0BpdgjoO1z1rqU=A0B4657A'
+username = 'your@email.com'
+api_token = 'API-TOKEN'
 
 # Function to get all spaces
 def get_all_spaces():
