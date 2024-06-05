@@ -3,6 +3,32 @@ This script retrieves information about managed accounts in Confluence Cloud.
 It counts the number of active users, the number of Confluence users per domain,
 and the number of users active in the last month, last 2 months, and last 3 months.
 It then saves this information to a JSON file named 'confluence_managed_accounts.json'.
+
+The script performs the following tasks:
+1. Retrieves all managed accounts within the Confluence instance.
+2. Filters active users and counts them by domain.
+3. Counts users active in the last 1, 2, and 3 months.
+4. Exports the gathered data to a JSON file.
+
+To use this script:
+1. Replace the placeholder values for `confluence_base_url`, `username`, and `api_token` with your Confluence Cloud credentials and base URL.
+2. Ensure you have the `requests` library installed (`pip install requests`).
+3. Run the script.
+
+Dependencies:
+- requests: To handle HTTP requests.
+- json: To handle JSON data.
+- datetime, timedelta: For date manipulations.
+- collections.defaultdict: To handle default dictionary operations.
+
+Functions:
+- get_managed_accounts(): Retrieves all managed accounts.
+- filter_active_users(accounts): Filters active users and counts them by domain.
+- get_domain_counts(accounts, time_period): Counts users by domain for a specific time period.
+
+Usage:
+1. Update the script with your Confluence instance details.
+2. Execute the script to retrieve and export managed account information to a JSON file.
 """
 
 import json

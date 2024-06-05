@@ -1,6 +1,30 @@
 """
- This script retrieves and exports Confluence Cloud space watchers and page watchers to a JSON file.
- It uses the Confluence Cloud REST API and GraphQL API to gather data about spaces, their watchers, and page watchers.
+This script retrieves and exports Confluence Cloud space watchers and page watchers to a JSON file.
+It uses the Confluence Cloud REST API and GraphQL API to gather data about spaces, their watchers, and page watchers.
+
+The script performs the following tasks:
+1. Retrieves all spaces within the Confluence instance.
+2. For each space, fetches the space watchers using the GraphQL API.
+3. Retrieves all pages within the space and their respective page watchers using the GraphQL API.
+4. Exports the gathered data to a JSON file.
+
+To use this script:
+1. Replace the placeholder values for `confluence_base_url`, `username`, and `api_token` with your Confluence Cloud credentials and base URL.
+2. Ensure you have the `requests` library installed (`pip install requests`).
+3. Run the script.
+
+Dependencies:
+- requests: To handle HTTP requests.
+- json: To handle JSON data.
+
+Functions:
+- get_all_spaces(): Retrieves all spaces in the Confluence instance.
+- get_space_watchers(space_key): Retrieves watchers for a specific space using the GraphQL API.
+- get_page_watchers(page_id): Retrieves page watchers for a specific page using the GraphQL API.
+
+Usage:
+1. Update the script with your Confluence instance details.
+2. Execute the script to retrieve and export space watchers and page watchers to a JSON file.
 """
 
 import requests
