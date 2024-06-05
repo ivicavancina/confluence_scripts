@@ -1,0 +1,3887 @@
+[
+    {
+        "space_name": "Achilleas Voutsas",
+        "space_id": 77928,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Getting started in Confluence",
+                "page_id": "78145",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Achilleas Voutsas",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Overview",
+                "page_id": "78146",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Aina Ribas",
+        "space_id": 76647,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 1,
+                    "nodes": [
+                        {
+                            "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                            "__typename": "KnownUser",
+                            "displayName": "Aina Ribas Massonis",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "76864",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "ATD Decision Letters",
+        "space_id": 2359299,
+        "space_type": "global",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "ASK-153705 - ATDMT",
+                "page_id": "2362953",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Request access to documents - ASK-148818 - NTTP impurities in sitagliptin products - Release letter to the requester",
+                "page_id": "2362967",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "ASK-153791 - ATDMT",
+                "page_id": "2362983",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "ASK-152426 - ATDMT",
+                "page_id": "2362985",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "ASK-154245 - ATDMT",
+                "page_id": "2362997",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Comirnaty  - ASK-148075 - DNA contamination  - Release letter to the requester",
+                "page_id": "2363009",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Comirnaty  - ASK-148075 - DNA contamination  - Notification to the MAH of the Agency\u2019s decision to disclose documents",
+                "page_id": "2363011",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "ASK-154195 - ATDMT",
+                "page_id": "2363015",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "HCP campaign ASK-137722 - Spikevax (batch 6 ) Third PBRER page 1869 - 2268 - Notification to the MAH of the Agency\u2019s decision to disclose documents",
+                "page_id": "2363023",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Diclofenac- ASK-108029 - PSUSA/00010342/201809 AR - Notification to the MAH of the Agency\u2019s decision to disclose documents",
+                "page_id": "2363025",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Pergoveris - ASK-74781 - Batch 14 RMP v.5.1 Part 3 - Release letter to the requester",
+                "page_id": "2363043",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Diclofenac - ASK-143151 - PSUSA/00010342/201809 - (topical formulation) - Assessment report - Notification to the MAH of the Agency\u2019s decision to disclose documents",
+                "page_id": "2363073",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "ASK-154482 - ATDMT",
+                "page_id": "2363077",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Request access to documents - ASK-148818 - NTTP impurities in sitagliptin products - Notification to the MAH of the Agency\u2019s decision to disclose documents",
+                "page_id": "2363097",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Spikevax - ASK-78854 - Batch 38 (Batch 17 for MAH) - Rapp_Rolling-Review-report-quality_final p. 1-129 (p. 73-94) - Release letter to the requester",
+                "page_id": "2363101",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Onpattro  Patisiran - ASK-80311 - Batch 15 - ttr02-glp15-031-study-report (pages 423-534) - Notification to the MAH of the Agency\u2019s decision to disclose documents",
+                "page_id": "2363105",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Onpattro  Patisiran - ASK-80311 - Batch 15 - ttr02-glp15-031-study-report (pages 423-534) - Release letter to the requester",
+                "page_id": "2363107",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Diclofenac (topical formulations)  - ASK-143692 -PSUSA/00010342/201809 - (topical formulation) - Assessment report - Notification to the MAH of the Agency\u2019s decision to disclose documents",
+                "page_id": "2363109",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "ASK-154418 - ATDMT",
+                "page_id": "2363113",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Gardasil  - ASK-147166 - Batch 2 (final) - NCT00365716 / V501-007 - Notification to the MAH of the Agency\u2019s decision to disclose documents",
+                "page_id": "2363145",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Gardasil  - ASK-147166 - Batch 2 (final) - NCT00365716 / V501-007 - Release letter to the requester",
+                "page_id": "2363147",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Ocrevus  - ASK-149873 - Batch 2 RMP v8.1 Body and Annexes 4 and 6 - Release letter to the requester",
+                "page_id": "2363153",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Pergoveris - ASK-74781 - Batch 14 RMP v.5.1 Part 3 - Notification to the MAH of the Agency\u2019s decision to disclose documents",
+                "page_id": "2363227",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Xiidra LIFITEGRAST - ASK-80140 - Batch 11 - Release letter to the requester",
+                "page_id": "2363455",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Spikevax - ASK-78854 - Batch 38 (Batch 17 for MAH) - Rapp_Rolling-Review-report-quality_final p. 1-129 (p. 73-94) - Notification to the MAH of the Agency\u2019s decision to disclose documents",
+                "page_id": "2363457",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Blazevic Valdemar",
+        "space_id": 11337788,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 1,
+                    "nodes": [
+                        {
+                            "accountId": "712020:1492ccc0-4556-4223-a98b-fe56196705cf",
+                            "__typename": "KnownUser",
+                            "displayName": "Valdemar Blazevic",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:1492ccc0-4556-4223-a98b-fe56196705cf",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "11337890",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Decision log",
+                "page_id": "46072344",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:1492ccc0-4556-4223-a98b-fe56196705cf",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Valdemar Blazevic",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:1492ccc0-4556-4223-a98b-fe56196705cf",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "bob.dalm",
+        "space_id": 98605,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Getting started in Confluence",
+                "page_id": "98703",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "5e5d2c7a924db10e74b98665",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Bob Dalm",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/5e5d2c7a924db10e74b98665",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Overview",
+                "page_id": "98704",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "5e5d2c7a924db10e74b98665",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Bob Dalm",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/5e5d2c7a924db10e74b98665",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Confluence@EMA",
+        "space_id": 133066,
+        "space_type": "global",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 20,
+                    "nodes": [
+                        {
+                            "accountId": "5f5b93b40b6be2006e081538",
+                            "__typename": "KnownUser",
+                            "displayName": "Manuel Alejandro Dominguez Berberana",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/5f5b93b40b6be2006e081538",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "6273d97e76b8d300687443f8",
+                            "__typename": "KnownUser",
+                            "displayName": "Shashi Bhushar",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/6273d97e76b8d300687443f8",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:00f9be30-7438-409a-b114-e6f7b71288f0",
+                            "__typename": "KnownUser",
+                            "displayName": "Gaby Di Matteo",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:00f9be30-7438-409a-b114-e6f7b71288f0",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:057f2c45-f1c2-4e67-b914-de7d7da29505",
+                            "__typename": "KnownUser",
+                            "displayName": "Josef Pellizzari",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:057f2c45-f1c2-4e67-b914-de7d7da29505",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:0a907e43-aa7c-4fd9-868b-896023c96d63",
+                            "__typename": "KnownUser",
+                            "displayName": "Dana Halov\u00e1",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:0a907e43-aa7c-4fd9-868b-896023c96d63",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:16229c19-89ff-43db-a773-0efd43a281ca",
+                            "__typename": "KnownUser",
+                            "displayName": "Anna-Karin Klocker",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:16229c19-89ff-43db-a773-0efd43a281ca",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:18da447e-517b-40b5-8a89-ae56ba2d176c",
+                            "__typename": "KnownUser",
+                            "displayName": "Pierre-Frederic Omnes",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:18da447e-517b-40b5-8a89-ae56ba2d176c",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:1ef0218f-552b-4572-8553-b38447b97882",
+                            "__typename": "KnownUser",
+                            "displayName": "Despoina Apostolidou",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:1ef0218f-552b-4572-8553-b38447b97882",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:289c516e-038b-49c5-9ceb-3d5483185740",
+                            "__typename": "KnownUser",
+                            "displayName": "Alessandra Lolato",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:289c516e-038b-49c5-9ceb-3d5483185740",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:29f6ea6e-9336-48bd-8f39-6d54459262a2",
+                            "__typename": "KnownUser",
+                            "displayName": "Nikola Radojkovic",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:29f6ea6e-9336-48bd-8f39-6d54459262a2",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:35ce3607-4a09-4302-af32-95d821e29347",
+                            "__typename": "KnownUser",
+                            "displayName": "Francisco Javier Lazo Navarro",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:35ce3607-4a09-4302-af32-95d821e29347",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:390ce2b8-138b-49ba-9b81-f959f1054497",
+                            "__typename": "KnownUser",
+                            "displayName": "Marek Chlustik",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:390ce2b8-138b-49ba-9b81-f959f1054497",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:3cc5b48a-a2e8-44c9-81f7-f8cd389e8a42",
+                            "__typename": "KnownUser",
+                            "displayName": "Ilze Zonenberga",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:3cc5b48a-a2e8-44c9-81f7-f8cd389e8a42",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:4ddc1086-669f-4074-979a-2bd592b17154",
+                            "__typename": "KnownUser",
+                            "displayName": "Elsa Vecino",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:4ddc1086-669f-4074-979a-2bd592b17154",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:50443875-8023-4cb6-b7fc-a2ff087c2771",
+                            "__typename": "KnownUser",
+                            "displayName": "Alexis Fajardo Moya",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:50443875-8023-4cb6-b7fc-a2ff087c2771",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:5450c858-0281-4d35-b5c0-bb6969e23cea",
+                            "__typename": "KnownUser",
+                            "displayName": "Sophia Albuquerque",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:5450c858-0281-4d35-b5c0-bb6969e23cea",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:a2833fb7-f7c7-4e99-86bd-fd5265de1158",
+                            "__typename": "KnownUser",
+                            "displayName": "Marta Pruszko",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:a2833fb7-f7c7-4e99-86bd-fd5265de1158",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:a2cf61ef-58fa-4503-a19d-683debc4037b",
+                            "__typename": "KnownUser",
+                            "displayName": "Maria del Mar Valdes Romero",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:a2cf61ef-58fa-4503-a19d-683debc4037b",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:aced67a8-20c6-474e-ae21-14954efa5bf9",
+                            "__typename": "KnownUser",
+                            "displayName": "Telma Fortunas",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:aced67a8-20c6-474e-ae21-14954efa5bf9",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:ba87b5a9-92ba-481c-af92-c0ead1f36da4",
+                            "__typename": "KnownUser",
+                            "displayName": "Jerzy Kochan",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:ba87b5a9-92ba-481c-af92-c0ead1f36da4",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Confluence@EMA",
+                "page_id": "133297",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Aina Ribas Massonis",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to log in to Confluence Cloud",
+                "page_id": "8454552",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 2,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Aina Ribas Massonis",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Myrta Pace",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How-to articles",
+                "page_id": "8454569",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Aina Ribas Massonis",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Troubleshooting articles",
+                "page_id": "8487223",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 2,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Aina Ribas Massonis",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Myrta Pace",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Document preview",
+                "page_id": "10289486",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Myrta Pace",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Draft pages",
+                "page_id": "10289535",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Myrta Pace",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Links to old space",
+                "page_id": "10290222",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Myrta Pace",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Menu Items",
+                "page_id": "10322972",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 2,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Aina Ribas Massonis",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Myrta Pace",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Edit page",
+                "page_id": "10387611",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Myrta Pace",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to request access, request for information or report an issue in ServiceNow",
+                "page_id": "10387749",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Aina Ribas Massonis",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Macros",
+                "page_id": "10388133",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 2,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Aina Ribas Massonis",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Myrta Pace",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Users appearing as deleted",
+                "page_id": "10650046",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 2,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Aina Ribas Massonis",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Myrta Pace",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to change access permissions in a restricted page via Confluence REST API",
+                "page_id": "11438139",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Achilleas Voutsas",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to switch to the new editor format",
+                "page_id": "11864822",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Aina Ribas Massonis",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to export pages using EMA templates",
+                "page_id": "11865412",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Myrta Pace",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Service Desk - Access requests to Confluence Cloud",
+                "page_id": "24937104",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 2,
+                            "nodes": [
+                                {
+                                    "accountId": "557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Achilleas Voutsas",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Aina Ribas Massonis",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:32d53082-2809-406c-8bba-df4615a5571c",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to add users to a Confluence space",
+                "page_id": "51315139",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 2,
+                            "nodes": [
+                                {
+                                    "accountId": "557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Achilleas Voutsas",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:ead969d7-5f68-49dd-b738-4503fb1b04c3",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Elisabeth Godet",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:ead969d7-5f68-49dd-b738-4503fb1b04c3",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Plugins",
+                "page_id": "65536810",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Achilleas Voutsas",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to disable/enable Notifications in Confluence Cloud",
+                "page_id": "136445953",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Achilleas Voutsas",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/557058:d5129add-da91-41b7-8d79-60a57dda706f",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Crol Emile",
+        "space_id": 25985348,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 1,
+                    "nodes": [
+                        {
+                            "accountId": "712020:31a286bf-ed83-493f-ab2e-d1adfa6452cd",
+                            "__typename": "KnownUser",
+                            "displayName": "Emile Crol",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:31a286bf-ed83-493f-ab2e-d1adfa6452cd",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "25985570",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Data Analytics Platform Self-Service",
+        "space_id": 49348800,
+        "space_type": "global",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 2,
+                    "nodes": [
+                        {
+                            "accountId": "712020:16db8ba6-232a-4e01-a013-a8f4b7e77db7",
+                            "__typename": "KnownUser",
+                            "displayName": "Ivica Vancina",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:16db8ba6-232a-4e01-a013-a8f4b7e77db7",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:716025f1-d719-4350-9ee1-38f43824620f",
+                            "__typename": "KnownUser",
+                            "displayName": "Chirag Bakliwal",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:716025f1-d719-4350-9ee1-38f43824620f",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Data Analytics Platform Self-Service Home",
+                "page_id": "49348901",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 3,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:1fdda79f-7409-4c80-9dc1-2ed6b5d59f9d",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Marcia Rueckbeil",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:1fdda79f-7409-4c80-9dc1-2ed6b5d59f9d",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:ac862cea-53d3-4a9e-ac9f-9ba6aa588fb3",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Bhawesh Kumar",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:ac862cea-53d3-4a9e-ac9f-9ba6aa588fb3",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:d58d91a5-ee8a-4062-8dc5-cb4d68cf4922",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Rakshit Sharma",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:d58d91a5-ee8a-4062-8dc5-cb4d68cf4922",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Demonstration Space",
+        "space_id": 4194307,
+        "space_type": "global",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Welcome to Confluence",
+                "page_id": "4194309",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Learn the wonders of autoconvert (step 7 of 9)",
+                "page_id": "4202718",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Lay out your page (step 6 of 9)",
+                "page_id": "4202720",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Prettify the page with an image (step 4 of 9)",
+                "page_id": "4202722",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Tell people what you think in a comment (step 8 of 9)",
+                "page_id": "4202724",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Get serious with a table (step 5 of 9)",
+                "page_id": "4202726",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "What is Confluence? (step 1 of 9)",
+                "page_id": "4202729",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "A quick look at the editor (step 2 of 9)",
+                "page_id": "4202731",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Let's edit this page (step 3 of 9)",
+                "page_id": "4202733",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Share your page with a team member (step 9 of 9)",
+                "page_id": "4202735",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Dimitriadi Sophia",
+        "space_id": 11866791,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 1,
+                    "nodes": [
+                        {
+                            "accountId": "712020:5e380fbb-b73e-4ff0-8ad3-c520d898bba6",
+                            "__typename": "KnownUser",
+                            "displayName": "Sophia Dimitriadi",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:5e380fbb-b73e-4ff0-8ad3-c520d898bba6",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "11866888",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "EMA Knowledge Base - Draft",
+        "space_id": 9043968,
+        "space_type": "global",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 20,
+                    "nodes": [
+                        {
+                            "accountId": "5d8cc87016bcf20dd1c67b2e",
+                            "__typename": "KnownUser",
+                            "displayName": "Francisco Jesus Guerrero Gonzalez",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/5d8cc87016bcf20dd1c67b2e",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "5ff83912a9d0300107eb9b37",
+                            "__typename": "KnownUser",
+                            "displayName": "Jakub Hasiec",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/5ff83912a9d0300107eb9b37",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "62860eb6c217e200698dea33",
+                            "__typename": "KnownUser",
+                            "displayName": "Juan Manuel Ortiz Garc\u00eda-M\u00e1rquez",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/62860eb6c217e200698dea33",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:02078b36-e9e7-4c82-b4a7-ecdae2f1c8aa",
+                            "__typename": "KnownUser",
+                            "displayName": "Rafael Jurado Ordo\u00f1ez",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:02078b36-e9e7-4c82-b4a7-ecdae2f1c8aa",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:0b545d6c-b65f-4e54-b8a7-903cabe42db6",
+                            "__typename": "KnownUser",
+                            "displayName": "Luigi Belli",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:0b545d6c-b65f-4e54-b8a7-903cabe42db6",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:1260e24a-6f48-4a73-a7d5-117e5dd26023",
+                            "__typename": "KnownUser",
+                            "displayName": "Andres Ganan Jimenez",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:1260e24a-6f48-4a73-a7d5-117e5dd26023",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:1648dcef-a23a-4246-a833-807ea2cbce56",
+                            "__typename": "KnownUser",
+                            "displayName": "Pietro Giannini",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:1648dcef-a23a-4246-a833-807ea2cbce56",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:1cbb7c54-6fcf-43c5-b0c9-0c2a839b99c9",
+                            "__typename": "KnownUser",
+                            "displayName": "Ramona Zemache",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:1cbb7c54-6fcf-43c5-b0c9-0c2a839b99c9",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:1df66838-c31a-40b4-8de9-a7816d1468bb",
+                            "__typename": "KnownUser",
+                            "displayName": "Josipa Vrkljan",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:1df66838-c31a-40b4-8de9-a7816d1468bb",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:1f32dbed-fa1a-4b71-a0ac-11222cddfd7c",
+                            "__typename": "KnownUser",
+                            "displayName": "Sivagopikrishna Naralasetty",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:1f32dbed-fa1a-4b71-a0ac-11222cddfd7c",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:21f9a49c-1fe4-4014-8999-b2c67a194059",
+                            "__typename": "KnownUser",
+                            "displayName": "Nuria de la Calle Kabab",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:21f9a49c-1fe4-4014-8999-b2c67a194059",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:281f3a5e-54bf-4db5-bf3b-aa9ad915e776",
+                            "__typename": "KnownUser",
+                            "displayName": "Miguel Gonzalo",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:281f3a5e-54bf-4db5-bf3b-aa9ad915e776",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:29c05b68-baba-4d0b-9539-bae754d94d49",
+                            "__typename": "KnownUser",
+                            "displayName": "Irene Pradera Biscarri",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:29c05b68-baba-4d0b-9539-bae754d94d49",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:2aca0ce3-6604-4cdd-a6dc-759e917cd03e",
+                            "__typename": "KnownUser",
+                            "displayName": "Vasiliki Christopoulou",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:2aca0ce3-6604-4cdd-a6dc-759e917cd03e",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:33eb502b-8876-4ca6-9b3c-542a8299333a",
+                            "__typename": "KnownUser",
+                            "displayName": "Giannis Politis",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:33eb502b-8876-4ca6-9b3c-542a8299333a",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:345a9be0-d615-4348-98af-3caa9ac1479c",
+                            "__typename": "KnownUser",
+                            "displayName": "Magdalena Filipowska",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:345a9be0-d615-4348-98af-3caa9ac1479c",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:35a50a0d-9c16-428f-9573-c192bbb351d2",
+                            "__typename": "KnownUser",
+                            "displayName": "Abigail Padua",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:35a50a0d-9c16-428f-9573-c192bbb351d2",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:38bb2b53-600c-44ee-9d04-780e09b88da2",
+                            "__typename": "KnownUser",
+                            "displayName": "Margarida Costa Pinho",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:38bb2b53-600c-44ee-9d04-780e09b88da2",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:3b25bab8-2b34-4694-adb5-d95ceda1409b",
+                            "__typename": "KnownUser",
+                            "displayName": "Deon du Preez",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:3b25bab8-2b34-4694-adb5-d95ceda1409b",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:40af7743-05e1-4b43-a8a2-4fc392b45d11",
+                            "__typename": "KnownUser",
+                            "displayName": "Ivica Vancina",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:40af7743-05e1-4b43-a8a2-4fc392b45d11",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": true,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "EMA Knowledge Base - Draft",
+                "page_id": "9043970",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 2,
+                            "nodes": [
+                                {
+                                    "accountId": "5f5b93b40b6be2006e081538",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Manuel Alejandro Dominguez Berberana",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/5f5b93b40b6be2006e081538",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:eb6396ad-129d-4042-b607-372a85aa46f7",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Veronica Picciafuoco",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:eb6396ad-129d-4042-b607-372a85aa46f7",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Continous Deployment  Team Supported Products List",
+                "page_id": "9045151",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 3,
+                            "nodes": [
+                                {
+                                    "accountId": "634fa7fbd66d8108a121ba88",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Jhonny Oliveira",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/634fa7fbd66d8108a121ba88",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:1648dcef-a23a-4246-a833-807ea2cbce56",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Pietro Giannini",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:1648dcef-a23a-4246-a833-807ea2cbce56",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:4091bec4-ae0d-4211-be6c-6af27dfdb32b",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Gonzague Huet",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:4091bec4-ae0d-4211-be6c-6af27dfdb32b",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "OID: How to create a user in OBIEE and grant User Privileges",
+                "page_id": "9045153",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "EV8 Nightly Job Setup in OEM 13c",
+                "page_id": "9045155",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:841d503b-5f2b-4e13-b687-bb6a76eecb66",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Wilko Edens",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:841d503b-5f2b-4e13-b687-bb6a76eecb66",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "EV HUMAN Merge / Swap / Split / Move, Restricted Area Organisation Category",
+                "page_id": "9045159",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:fdf2dcec-8282-4dd3-bf6a-97badc0d2779",
+                                    "__typename": "KnownUser",
+                                    "displayName": "David Mikolanda",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:fdf2dcec-8282-4dd3-bf6a-97badc0d2779",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "April 2020",
+                "page_id": "9045161",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How-to test EURS",
+                "page_id": "9045163",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How-to test eSubmission via scripts",
+                "page_id": "9045165",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How-to create a SPOR API Functional User",
+                "page_id": "9045169",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "70121:86bf2ede-ab24-499b-b234-80a81e15ca87",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Adrian Costeanu",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/70121:86bf2ede-ab24-499b-b234-80a81e15ca87",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to configure meeting rooms in different scenarios",
+                "page_id": "9045172",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "557058:571f85a1-4554-4397-8561-d2eb71d1f291",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Alessandro Dini",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/557058:571f85a1-4554-4397-8561-d2eb71d1f291",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to fix network drives when are not loading properly on VPN (offline files corruption)",
+                "page_id": "9045176",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "BULK EVMPD EXPORT RESULT CODES",
+                "page_id": "9045178",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "5df914b6be20390cb347b814",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Jose Carlos Fernandez Molina",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/5df914b6be20390cb347b814",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "19c Test Guide",
+                "page_id": "9045180",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "WLS: How to disable a Managed Server in a WLS domain",
+                "page_id": "9045184",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:29c05b68-baba-4d0b-9539-bae754d94d49",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Irene Pradera Biscarri",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:29c05b68-baba-4d0b-9539-bae754d94d49",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Installation of the Teleprompter software for the Executive Director",
+                "page_id": "9045186",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 2,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:1260e24a-6f48-4a73-a7d5-117e5dd26023",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Andres Ganan Jimenez",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:1260e24a-6f48-4a73-a7d5-117e5dd26023",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:c3ded29e-0c45-4d47-81fb-bb24263f165f",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Milos Levcik",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:c3ded29e-0c45-4d47-81fb-bb24263f165f",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Integration Layer restart procedure",
+                "page_id": "9045188",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:1648dcef-a23a-4246-a833-807ea2cbce56",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Pietro Giannini",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:1648dcef-a23a-4246-a833-807ea2cbce56",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "DREAM 'Cleanup Process' After a Performance Test",
+                "page_id": "9045190",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "EUTCT csv export separator issue",
+                "page_id": "9045196",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Stream 3 Legacy applications - Smoke Tests + scenarios",
+                "page_id": "9045198",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 4,
+                            "nodes": [
+                                {
+                                    "accountId": "5e4f8680924db10e74b84c95",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Krzysztof Smuda",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/5e4f8680924db10e74b84c95",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "601410d8a7fb4000690d02bd",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Justyna Binkowska",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/601410d8a7fb4000690d02bd",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:514fd1b6-d602-4217-abb0-ac1e745e396c",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Tomasz Dubiel",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:514fd1b6-d602-4217-abb0-ac1e745e396c",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:d54e29d4-ecd9-40f0-8d54-ca544a1f0a32",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Daniel Kociniewski",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:d54e29d4-ecd9-40f0-8d54-ca544a1f0a32",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "UTF8 encoding, set environment for DB execution",
+                "page_id": "9045200",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:fdf2dcec-8282-4dd3-bf6a-97badc0d2779",
+                                    "__typename": "KnownUser",
+                                    "displayName": "David Mikolanda",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:fdf2dcec-8282-4dd3-bf6a-97badc0d2779",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "TEMPLATE for adding new service/systems in scope of AM&R",
+                "page_id": "9045203",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 3,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:4091bec4-ae0d-4211-be6c-6af27dfdb32b",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Gonzague Huet",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:4091bec4-ae0d-4211-be6c-6af27dfdb32b",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:841d503b-5f2b-4e13-b687-bb6a76eecb66",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Wilko Edens",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:841d503b-5f2b-4e13-b687-bb6a76eecb66",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:b6131b85-0d7e-410c-8b65-c6a3bf2bfc50",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Peter Mars",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:b6131b85-0d7e-410c-8b65-c6a3bf2bfc50",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "FMW: TEMPLATE for requesting new VMs for FMW environments",
+                "page_id": "9045205",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 3,
+                            "nodes": [
+                                {
+                                    "accountId": "634fa7fbd66d8108a121ba88",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Jhonny Oliveira",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/634fa7fbd66d8108a121ba88",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:29c05b68-baba-4d0b-9539-bae754d94d49",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Irene Pradera Biscarri",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:29c05b68-baba-4d0b-9539-bae754d94d49",
+                                        "__typename": "Icon"
+                                    }
+                                },
+                                {
+                                    "accountId": "712020:b6131b85-0d7e-410c-8b65-c6a3bf2bfc50",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Peter Mars",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:b6131b85-0d7e-410c-8b65-c6a3bf2bfc50",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to Hide Un-hide results in EudraCT CTR",
+                "page_id": "9045207",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "FMW: Automatic Restart Configuration for WLS",
+                "page_id": "9045209",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "SC012 - Back to office calendar - January, February & March'22",
+                "page_id": "9045211",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:f2520d79-376e-44d4-a9b2-6bbd55e6a78b",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Brian Munyaka",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:f2520d79-376e-44d4-a9b2-6bbd55e6a78b",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "EMA Knowledge Base - Published",
+        "space_id": 8814592,
+        "space_type": "global",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 16,
+                    "nodes": [
+                        {
+                            "accountId": "557058:12dca19a-15b9-4e79-b849-0de8065f6a8f",
+                            "__typename": "KnownUser",
+                            "displayName": "Marcelo Nahmijas",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/557058:12dca19a-15b9-4e79-b849-0de8065f6a8f",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "5d96f7a11d47a50c34d537d1",
+                            "__typename": "KnownUser",
+                            "displayName": "Kevin Mawson",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/5d96f7a11d47a50c34d537d1",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:11de1005-7e83-4d70-a2b9-713a1816f8e6",
+                            "__typename": "KnownUser",
+                            "displayName": "Daniela Raneri",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:11de1005-7e83-4d70-a2b9-713a1816f8e6",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:12767044-6598-41eb-9b54-5034eb45b5f8",
+                            "__typename": "KnownUser",
+                            "displayName": "Ralf Herold",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:12767044-6598-41eb-9b54-5034eb45b5f8",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:19e5c01a-2db4-406c-a3d2-20693292ad89",
+                            "__typename": "KnownUser",
+                            "displayName": "Aurelian-Iuliu Bizo",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:19e5c01a-2db4-406c-a3d2-20693292ad89",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:38bb2b53-600c-44ee-9d04-780e09b88da2",
+                            "__typename": "KnownUser",
+                            "displayName": "Margarida Costa Pinho",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:38bb2b53-600c-44ee-9d04-780e09b88da2",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:44b1bc03-5d74-42dc-bd9b-0b723b662f01",
+                            "__typename": "KnownUser",
+                            "displayName": "Michal Samulak",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:44b1bc03-5d74-42dc-bd9b-0b723b662f01",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:47e3cf77-6fe1-4b6b-95d5-3fdec7316948",
+                            "__typename": "KnownUser",
+                            "displayName": "Pedro Sus\u00edn Ortas",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:47e3cf77-6fe1-4b6b-95d5-3fdec7316948",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:6c8823e8-0354-4a14-b7f6-5025950f641e",
+                            "__typename": "KnownUser",
+                            "displayName": "Cornelis Hendrik (Rico) Slingerland",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:6c8823e8-0354-4a14-b7f6-5025950f641e",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:7567a930-d167-4ae8-9840-2183b6e360af",
+                            "__typename": "KnownUser",
+                            "displayName": "Mariola Continsouzas",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:7567a930-d167-4ae8-9840-2183b6e360af",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:81a6ddac-7c66-4e24-a811-93efbeaa6ec9",
+                            "__typename": "KnownUser",
+                            "displayName": "Laurence Diana",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:81a6ddac-7c66-4e24-a811-93efbeaa6ec9",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:bb84d31a-84b4-401d-add0-ef5f1405d21a",
+                            "__typename": "KnownUser",
+                            "displayName": "Bastiaan Lascaris",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:bb84d31a-84b4-401d-add0-ef5f1405d21a",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:be907127-3d81-42b8-b227-1c354d396bda",
+                            "__typename": "KnownUser",
+                            "displayName": "Teodora Spanache",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:be907127-3d81-42b8-b227-1c354d396bda",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:ed7e439b-5c8e-4d18-b659-3692eb1c5e85",
+                            "__typename": "KnownUser",
+                            "displayName": "Daniel Voinea",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:ed7e439b-5c8e-4d18-b659-3692eb1c5e85",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:f371290c-1372-4d91-abaf-c9069298a3a8",
+                            "__typename": "KnownUser",
+                            "displayName": "Danilo Silva",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:f371290c-1372-4d91-abaf-c9069298a3a8",
+                                "__typename": "Icon"
+                            }
+                        },
+                        {
+                            "accountId": "712020:f461cad5-cbeb-4b7e-995c-0ca4104af0f8",
+                            "__typename": "KnownUser",
+                            "displayName": "Luis Sebasti\u00e3o",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:f461cad5-cbeb-4b7e-995c-0ca4104af0f8",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": []
+    },
+    {
+        "space_name": "EMA Knowledge Base - Retired",
+        "space_id": 8650752,
+        "space_type": "global",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 1,
+                    "nodes": [
+                        {
+                            "accountId": "712020:62226e32-f254-4e30-ae49-4cc70c0653cf",
+                            "__typename": "KnownUser",
+                            "displayName": "Antonis Spyropoulos",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:62226e32-f254-4e30-ae49-4cc70c0653cf",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": []
+    },
+    {
+        "space_name": "Erik Hekert",
+        "space_id": 101024,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "101122",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Ghumra Mahomed",
+        "space_id": 10650073,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 1,
+                    "nodes": [
+                        {
+                            "accountId": "712020:4aa2ee4f-857d-4244-9c05-0ffd744d2079",
+                            "__typename": "KnownUser",
+                            "displayName": "Ghumra Mahomed",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:4aa2ee4f-857d-4244-9c05-0ffd744d2079",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "10650175",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Idu Andrei",
+        "space_id": 11862080,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 1,
+                    "nodes": [
+                        {
+                            "accountId": "712020:38a38f8d-c0a4-41bf-8c00-12f5e1c21646",
+                            "__typename": "KnownUser",
+                            "displayName": "Andrei Idu",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:38a38f8d-c0a4-41bf-8c00-12f5e1c21646",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "11862177",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Ivica Vancina",
+        "space_id": 134938668,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 1,
+                    "nodes": [
+                        {
+                            "accountId": "712020:16db8ba6-232a-4e01-a013-a8f4b7e77db7",
+                            "__typename": "KnownUser",
+                            "displayName": "Ivica Vancina",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:16db8ba6-232a-4e01-a013-a8f4b7e77db7",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Getting started in Confluence",
+                "page_id": "134938890",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:16db8ba6-232a-4e01-a013-a8f4b7e77db7",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Ivica Vancina",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:16db8ba6-232a-4e01-a013-a8f4b7e77db7",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Overview",
+                "page_id": "134938891",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Ivica Vancina",
+        "space_id": 130385729,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Confluence Cloud Notifications - How To",
+                "page_id": "133693947",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:40af7743-05e1-4b43-a8a2-4fc392b45d11",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Ivica Vancina",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:40af7743-05e1-4b43-a8a2-4fc392b45d11",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Joshua T",
+        "space_id": 48857121,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Getting started in Confluence",
+                "page_id": "48857344",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Overview",
+                "page_id": "48857345",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Marcelo Nahmijas",
+        "space_id": 13009386,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 1,
+                    "nodes": [
+                        {
+                            "accountId": "557058:12dca19a-15b9-4e79-b849-0de8065f6a8f",
+                            "__typename": "KnownUser",
+                            "displayName": "Marcelo Nahmijas",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/557058:12dca19a-15b9-4e79-b849-0de8065f6a8f",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "13009608",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Myrta Pace",
+        "space_id": 30050794,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 1,
+                    "nodes": [
+                        {
+                            "accountId": "712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                            "__typename": "KnownUser",
+                            "displayName": "Myrta Pace",
+                            "permissionType": "INTERNAL",
+                            "profilePicture": {
+                                "path": "/wiki/aa-avatar/712020:987afb7e-e69a-46c7-a8ce-924299d0d717",
+                                "__typename": "Icon"
+                            }
+                        }
+                    ],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "30051017",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "P\u00e9e Christophe",
+        "space_id": 75231,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "75449",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Rakshit Sharma",
+        "space_id": 36995487,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Overview",
+                "page_id": "36995710",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "JIRA-CLOUD INTEGRATION TEST",
+                "page_id": "45451772",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:d58d91a5-ee8a-4062-8dc5-cb4d68cf4922",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Rakshit Sharma",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:d58d91a5-ee8a-4062-8dc5-cb4d68cf4922",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Jira Confluence test 1",
+                "page_id": "63635744",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:d58d91a5-ee8a-4062-8dc5-cb4d68cf4922",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Rakshit Sharma",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:d58d91a5-ee8a-4062-8dc5-cb4d68cf4922",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to Manage watchers from page.",
+                "page_id": "108988709",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:d58d91a5-ee8a-4062-8dc5-cb4d68cf4922",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Rakshit Sharma",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:d58d91a5-ee8a-4062-8dc5-cb4d68cf4922",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "How to disable SPAM Notifications on Confluence .",
+                "page_id": "109020423",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "712020:d58d91a5-ee8a-4062-8dc5-cb4d68cf4922",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Rakshit Sharma",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/712020:d58d91a5-ee8a-4062-8dc5-cb4d68cf4922",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Ricardo Araya",
+        "space_id": 163843,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Getting started in Confluence",
+                "page_id": "163948",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 1,
+                            "nodes": [
+                                {
+                                    "accountId": "6413111c2cee496759eada68",
+                                    "__typename": "KnownUser",
+                                    "displayName": "Ricardo Araya",
+                                    "permissionType": "INTERNAL",
+                                    "profilePicture": {
+                                        "path": "/wiki/aa-avatar/6413111c2cee496759eada68",
+                                        "__typename": "Icon"
+                                    }
+                                }
+                            ],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Overview",
+                "page_id": "163949",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "space_name": "Ricardo Araya (Valiantys)",
+        "space_id": 164067,
+        "space_type": "personal",
+        "space_watchers": {
+            "data": {
+                "spaceWatchers": {
+                    "count": 0,
+                    "nodes": [],
+                    "pageInfo": {
+                        "hasNextPage": false,
+                        "endCursor": null,
+                        "__typename": "PageInfo"
+                    },
+                    "__typename": "PaginatedPersonList"
+                }
+            }
+        },
+        "space_pages": [
+            {
+                "page_name": "Getting started in Confluence",
+                "page_id": "164165",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            },
+            {
+                "page_name": "Overview",
+                "page_id": "164166",
+                "page_watchers": {
+                    "data": {
+                        "contentWatchers": {
+                            "count": 0,
+                            "nodes": [],
+                            "pageInfo": {
+                                "hasNextPage": false,
+                                "endCursor": null,
+                                "__typename": "PageInfo"
+                            },
+                            "__typename": "PaginatedPersonList"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]
