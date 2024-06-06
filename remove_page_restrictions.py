@@ -27,11 +27,14 @@ Usage:
 
 import requests
 from requests.auth import HTTPBasicAuth
+from dotenv import load_dotenv
+import os
+# Load the .env file
+load_dotenv()
 
-# Replace these variables with your Confluence Cloud instance details
-confluence_base_url = 'https://euema.atlassian.net/wiki'
-username = 'your-email@example.com'
-api_token = 'your-api-token'
+confluence_base_url = os.getenv('CONFLUENCE_BASE_URL')
+username = os.getenv('USERNAME')
+api_token = os.getenv('USER_API_TOKEN')
 space_key = 'SPACE_KEY'
 
 # Function to get all pages in the space

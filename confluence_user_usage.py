@@ -11,9 +11,8 @@ The script performs the following tasks:
 4. Exports the gathered data to a JSON file.
 
 To use this script:
-1. Replace the placeholder values for `confluence_base_url`, `username`, and `api_token` with your Confluence Cloud credentials and base URL.
-2. Ensure you have the `requests` library installed (`pip install requests`).
-3. Run the script.
+1. Ensure you have the `requests` library installed (`pip install requests`).
+2. Run the script.
 
 Dependencies:
 - requests: To handle HTTP requests.
@@ -35,11 +34,13 @@ import json
 import requests
 from datetime import datetime, timedelta
 from collections import defaultdict
+from dotenv import load_dotenv
+import os
+# Load the .env file
+load_dotenv()
 
-# Replace these variables with your Confluence Cloud credentials and base URL
-confluence_base_url = 'https://euema.atlassian.net'
-username = 'your@email.com'
-api_token = 'API-TOKEN'
+# Get the API token
+api_token = os.getenv('API_TOKEN')
 
 # Function to get managed accounts
 def get_managed_accounts():

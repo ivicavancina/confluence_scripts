@@ -30,11 +30,15 @@ Usage:
 import requests
 from requests.auth import HTTPBasicAuth
 import json
+from dotenv import load_dotenv
+import os
 
-# Replace these variables with your Confluence Cloud credentials and base URL
-confluence_base_url = 'https://euema.atlassian.net/wiki'
-username = 'your@email.com'
-api_token = 'API-TOKEN'
+# Load the .env file
+load_dotenv()
+
+confluence_base_url = os.getenv('CONFLUENCE_BASE_URL')
+username = os.getenv('USERNAME')
+api_token = os.getenv('USER_API_TOKEN')
 
 # Function to get all spaces
 def get_all_spaces():
