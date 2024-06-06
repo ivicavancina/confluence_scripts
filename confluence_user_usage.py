@@ -1,5 +1,5 @@
 """
-This script retrieves information about managed accounts in Confluence Cloud.
+This script retrieves and analyzes managed accounts in Confluence Cloud.
 It counts the number of active users, the number of Confluence users per domain,
 and the number of users active in the last month, last 2 months, and last 3 months.
 It then saves this information to a JSON file named 'confluence_managed_accounts.json'.
@@ -26,7 +26,7 @@ Functions:
 - get_domain_counts(accounts, time_period): Counts users by domain for a specific time period.
 
 Usage:
-1. Update the script with your Confluence instance details.
+1. Ensure the required packages are installed.
 2. Execute the script to retrieve and export managed account information to a JSON file.
 """
 

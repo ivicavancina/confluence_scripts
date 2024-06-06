@@ -8,15 +8,19 @@ Permission to access the Confluence site ('Can use' global permission).
 Only spaces that the user has permission to view will be returned.
 
 To use this script:
-1. Ensure you have the `requests` and `python-dotenv` libraries installed (`pip install requests python-dotenv`).
-2. Create a `.env` file with your Confluence instance details.
+1. Ensure you have the `requests` library installed (`pip install requests`).
+2. Update the script with your Confluence instance details.
 3. Run the script.
+
+Dependencies:
+- requests: To handle HTTP requests.
+- json: To handle JSON data.
 
 Functions:
 - get_all_spaces(): Retrieves all spaces in the Confluence instance, handling pagination.
 
 Usage:
-1. Update the script with your Confluence instance details.
+1. Ensure the required packages are installed.
 2. Execute the script to retrieve and export space data to a JSON file.
 """
 

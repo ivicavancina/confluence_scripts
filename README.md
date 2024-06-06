@@ -2,10 +2,11 @@
 
 This repository contains scripts to retrieve various types of information from Confluence Cloud. The scripts included are:
 
-1. `confluence_managed_accounts.py`: Counts the number of active users, the number of Confluence users per domain, and the number of users active in the last month, last 2 months, and last 3 months. It also identifies inactive users and top active users.
-2. `confluence_permissions_and_restrictions.py`: Retrieves permissions and restrictions for spaces and pages.
-3. `confluence_space_and_page_watchers.py`: Retrieves watchers for spaces and pages.
-4. `remove_page_restrictions.py`: Removes all page restrictions within a specific space.
+1. `confluence_managed_accounts.py`: Counts the number of active users, the number of Confluence users per domain, and the number of users active in the last month, last 2 months, and last 3 months. It also identifies inactive users and top active users. Uses the [Orgs API](https://developer.atlassian.com/cloud/admin/organization/rest/api-group-users/#api-v1-orgs-orgid-users-get).
+2. `confluence_permissions_and_restrictions.py`: Retrieves permissions and restrictions for spaces and pages. Uses the [Content Restrictions API](https://developer.atlassian.com/cloud/confluence/rest/v1/api-group-content-restrictions/#api-wiki-rest-api-content-id-restriction-get) and the [Space Permissions API](https://developer.atlassian.com/cloud/confluence/rest/v2/api-group-space-permissions/#api-spaces-id-permissions-get).
+3. `confluence_space_and_page_watchers.py`: Retrieves watchers for spaces and pages. This script uses Chrome tools/Inspect/Network to get the URL and GraphQL query to get results.
+4. `remove_page_restrictions.py`: Removes all page restrictions within a specific space. Uses the [Content Restrictions API](https://developer.atlassian.com/cloud/confluence/rest/v1/api-group-content-restrictions/#api-wiki-rest-api-content-id-restriction-delete).
+5. `get_confluence_spaces.py`: Retrieves all spaces from Confluence. Uses the [Spaces API](https://developer.atlassian.com/cloud/confluence/rest/v2/api-group-space/#api-spaces-get).
 
 The results from these scripts are saved to JSON files.
 
@@ -15,6 +16,7 @@ Before running the scripts, ensure you have the following installed:
 
 - Python 3.x
 - `requests` library
+- `python-dotenv` library
 
 ### Installing Python
 
@@ -27,7 +29,7 @@ Before running the scripts, ensure you have the following installed:
 You can install the required libraries using pip. Open your command line interface (Command Prompt on Windows, Terminal on macOS and Linux) and run:
 
 ```sh
-pip install requests
+pip install requests python-dotenv
 ```
 The `json` library is included with Python, so no additional installation is required.
 
@@ -35,12 +37,12 @@ The `json` library is included with Python, so no additional installation is req
 
 Clone the repository or download the scripts to your local machine.
 
-Replace the placeholder variables with your Confluence Cloud credentials and base URL in each script:
-
+Create a .env file in the same directory as your scripts. In this file, store your Confluence Cloud credentials
 ```python
-confluence_base_url = 'https://your-confluence-instance.atlassian.net'
-username = 'your-email@example.com'
-api_token = 'your-api-token'
+API_TOKEN="your-org-api-token"
+CONFLUENCE_BASE_URL="https://your-confluence-instance.atlassian.net"
+USERNAME="your-email@example.com"
+USER_API_TOKEN="your-api-token"
 ```
 ## Running the Scripts
 
@@ -59,6 +61,20 @@ api_token = 'your-api-token'
     python script_name.py
     ```
 
+You can also install the required libraries using the provided setup scripts.
+
+#### On Windows
+
+Open Command Prompt and navigate to the directory containing the `setup.bat` file:
+
+```sh
+cd path\to\your\script
+```
+Then run the setup.bat file:
+```sh
+setup.bat
+```
+
 ### On macOS and Linux
 
 1. Open Terminal.
@@ -74,6 +90,19 @@ api_token = 'your-api-token'
     python3 script_name.py
     ```
 
+You can also install the required libraries using the provided setup scripts.
+
+#### On macOS and Linux
+Open Terminal and navigate to the directory containing the setup.sh file:
+
+```sh
+cd path/to/your/script
+```
+Then run the setup.sh file:
+
+```sh
+./setup.sh
+```
 Replace `script_name.py` with the name of the script you want to run.
 
 ## Script Descriptions
@@ -110,6 +139,11 @@ This script removes all page restrictions within a specific space. It provides t
 
 - Retrieves all pages within the specified space.
 - Iterates through each page and removes any restrictions.
+
+### `get_confluence_spaces.py`
+
+- This script retrieves all spaces from Confluence. It provides the following information:
+- List of all spaces.
 
 ### Additional Resources
 - Confluence REST API Documentation: [Using the REST API](https://developer.atlassian.com/cloud/confluence/rest/v2/intro/#about)
