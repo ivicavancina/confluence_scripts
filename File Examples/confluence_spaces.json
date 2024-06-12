@@ -1,0 +1,185 @@
+{
+    "total_spaces": 30,
+    "spaces": [
+        {
+            "space_name": "Achilleas Voutsas",
+            "space_id": 77928,
+            "space_key": "~557058d5129addda9141b78d7960a57dda706f",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Aina Ribas",
+            "space_id": 76647,
+            "space_key": "~71202032d530822809406c8bbadf4615a5571c",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "ATD Decision Letters",
+            "space_id": 2359299,
+            "space_key": "ATD",
+            "space_type": "global"
+        },
+        {
+            "space_name": "Blazevic Valdemar",
+            "space_id": 11337788,
+            "space_key": "~7120201492ccc045564223a98bfe56196705cf",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "bob.dalm",
+            "space_id": 98605,
+            "space_key": "~5e5d2c7a924db10e74b98665",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Confluence@EMA",
+            "space_id": 133066,
+            "space_key": "EMACONF",
+            "space_type": "global"
+        },
+        {
+            "space_name": "Crol Emile",
+            "space_id": 25985348,
+            "space_key": "~71202031a286bfed83493fab2ed1adfa6452cd",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Data Analytics Platform Self-Service",
+            "space_id": 49348800,
+            "space_key": "DAPSS",
+            "space_type": "global"
+        },
+        {
+            "space_name": "Demonstration Space",
+            "space_id": 4194307,
+            "space_key": "ds",
+            "space_type": "global"
+        },
+        {
+            "space_name": "Dimitriadi Sophia",
+            "space_id": 11866791,
+            "space_key": "~7120205e380fbbb73e4ff08ad3c520d898bba6",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "EMA Knowledge Base - Draft",
+            "space_id": 9043968,
+            "space_key": "IKB",
+            "space_type": "global"
+        },
+        {
+            "space_name": "EMA Knowledge Base - Published",
+            "space_id": 8814592,
+            "space_key": "PKB",
+            "space_type": "global"
+        },
+        {
+            "space_name": "EMA Knowledge Base - Retired",
+            "space_id": 8650752,
+            "space_key": "EKBR",
+            "space_type": "global"
+        },
+        {
+            "space_name": "Erik Hekert",
+            "space_id": 101024,
+            "space_key": "~61e82241eb1fb60071afda1c",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Ghumra Mahomed",
+            "space_id": 10650073,
+            "space_key": "~7120204aa2ee4f857d42449c050ffd744d2079",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Idu Andrei",
+            "space_id": 11862080,
+            "space_key": "~71202038a38f8dc0a441bf8c0012f5e1c21646",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Ivica Vancina",
+            "space_id": 134938668,
+            "space_key": "~71202016db8ba6232a4e01a013a8f4b7e77db7",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Ivica Vancina",
+            "space_id": 130385729,
+            "space_key": "~71202040af774305e14b43a8a24fc392b45d11",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Joshua T",
+            "space_id": 48857121,
+            "space_key": "~6381f049489de2f7f4644b65",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Marcelo Nahmijas",
+            "space_id": 13009386,
+            "space_key": "~55705812dca19a15b94e79b8490de8065f6a8f",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Myrta Pace",
+            "space_id": 30050794,
+            "space_key": "~712020987afb7ee69a46c7a8ce924299d0d717",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "P\u00e9e Christophe",
+            "space_id": 75231,
+            "space_key": "~712020e86a18a1af3c493ea2b6e78ad00ebc16",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Rakshit Sharma",
+            "space_id": 36995487,
+            "space_key": "~712020d58d91a5ee8a40628dc5cb4d68cf4922",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Ricardo Araya",
+            "space_id": 163843,
+            "space_key": "~6413111c2cee496759eada68",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Ricardo Araya (Valiantys)",
+            "space_id": 164067,
+            "space_key": "~712020910d38b55f574cf4a7790ac7e8eb917d",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Rodrigues Adelino",
+            "space_id": 10289851,
+            "space_key": "~7120206fe877a3d0b64844987b1e7316f4c0bb",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Rodriguez Gustavo",
+            "space_id": 7733672,
+            "space_key": "~71202007e3f0519a484993942b580501f9630a",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "shashi bhushan",
+            "space_id": 11798097,
+            "space_key": "~6273d97e76b8d300687443f8",
+            "space_type": "personal"
+        },
+        {
+            "space_name": "Software Development",
+            "space_id": 98306,
+            "space_key": "SD",
+            "space_type": "global"
+        },
+        {
+            "space_name": "Zuheb",
+            "space_id": 98762,
+            "space_key": "~712020a58c3bd4dde842deb5a274c32e83752b",
+            "space_type": "personal"
+        }
+    ]
+}
